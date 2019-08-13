@@ -1,10 +1,19 @@
-# sleep_analysis_app
-```$ conda activate venv```
+Set up
 
-__import flask__
-```$ pip install Flask```
+$ conda activate venv
 
-__run locally__
-```$ python main.py```
+import flask $ pip install Flask
 
-go to ```http://127.0.0.1:5000/ ```
+run locally $ python main.py
+
+go to http://127.0.0.1:5000/
+
+IP address:
+
+http://34.73.78.75/
+
+Notes
+
+    upload local files
+    Refresh before uploading new files
+    If data has issue, the error will be shown on the web page

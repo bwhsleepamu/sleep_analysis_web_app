@@ -1,0 +1,14 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 289-608-133
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [11/Nov/2019 16:09:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Nov/2019 16:09:45] "GET /static/ind.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Nov/2019 16:09:46] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 289-608-133
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [11/Nov/2019 16:11:50] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Nov/2019 16:11:52] "GET /about HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [11/Nov/2019 16:12:10] "GET / HTTP/1.1" 200 -
